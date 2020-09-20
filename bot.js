@@ -2,7 +2,6 @@ const Discord = require('discord.js');
 const botconfig = require("./util/botconfig.json");
 const bot = new Discord.Client({ disableEveryone: true });
 const { CommandHandler } = require("djs-commands")
-const client = require('nekos.life');
 
 const CH = new CommandHandler({
     folder: __dirname + "/commands/",

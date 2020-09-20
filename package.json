@@ -1,0 +1,22 @@
+{
+
+  "name": "",
+
+  "description": "",
+
+  "version": "",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "12.3.1",
+  }
+
+}
